@@ -1,0 +1,6 @@
+1. Fork
+2. git clone
+3. Create new branch and work there
+4. Make commits
+5. git push -u origin "branch_name"
+6. Create Pull request on GitHub
